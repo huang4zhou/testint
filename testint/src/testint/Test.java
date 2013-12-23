@@ -1,5 +1,5 @@
 package testint;
 
 public class Test {
-  private int num3;
+  private int num34;
 }
